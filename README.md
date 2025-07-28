@@ -7,7 +7,6 @@ A **Content-Based Recommender System** that suggests movies similar to a user’
 ## 📌 Table of Contents
 
 - [📙 Try on Google Colab](#-try-on-google-colab)
-- [🚀 Demo (ngrok)](#-demo-ngrok)
 - [✨ Features](#-features)
 - [📦 Dataset](#-dataset)
 - [⚙️ Installation](#-installation)
@@ -26,14 +25,6 @@ Run the complete project in your browser — no installation required!
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LCRbboPyECuc079dxITUKsv3Qe8tuxlY?usp=sharing)
 
----
-
-## 🚀 Demo (ngrok)
-
-You can also deploy the app with ngrok for public access:
-
-
-🔗 Live App: [ngrok public access](https://0cd83ec13ed7.ngrok-free.app/)
 
 
 ## ✨ Features
